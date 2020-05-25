@@ -26,3 +26,5 @@ iii) Outlier Treatment
 6. Modelling 
 i)  With PCA, three models  
 ii) Without PCA, one model
+
+link to download Dataset : https://www.kaggle.com/vijaysrikanth/telecom-churn-data-set-for-the-south-asian-market
